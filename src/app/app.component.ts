@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'parent-child-relation';
+  // array
+  userDetail=[
+    {name:'Zainab', email:'zainab@gmail.com'},
+    {name:'Saleem', email:'saleem@gmail.com'},
+
+  ]
 }
